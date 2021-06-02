@@ -1,0 +1,30 @@
+{
+  "destination": [
+    {
+      "id": "5002270",
+      "name": "Gunung Bromo",
+      "desc": "Gunung Bromo atau dalam bahasa Tengger dieja Brama, adalah sebuah gunung berapi aktif di Jawa Timur, Indonesia. Gunung ini memiliki ketinggian 2.329 meter di atas permukaan laut dan berada dalam empat wilayah kabupaten, yakni Kabupaten Probolinggo, Kabupaten Pasuruan, Kabupaten Lumajang, dan Kabupaten",
+      "image": "bromo.jpg"
+    }, {
+      "id": "501195",
+      "name": "Monumen Nasional",
+      "desc": "Monumen Nasional atau yang populer disingkat dengan Monas atau Tugu Monas adalah monumen peringatan setinggi 132 meter yang didirikan untuk mengenang perlawanan dan perjuangan rakyat Indonesia untuk merebut kemerdekaan dari cengkraman pemerintahan kolonial Hindia Belanda.",
+      "image": "monas.jpg"
+    }, {
+      "id": "501252",
+      "name": "Borobudur",
+      "desc": "Candi ini terletak kurang lebih 100 km di sebelah barat daya Semarang, 86 km di sebelah barat Surakarta, dan 40 km di sebelah barat laut Yogyakarta. Berbentuk stupa ini didirikan oleh para penganut agama Buddha Mahayana sekitar tahun 800-an Masehi pada masa pemerintahan wangsa Syailendra. Borobudur adalah candi atau kuil dan salah satu monumen Buddha terbesar di dunia",
+      "image": "borobudur.jpg"
+    }, {
+      "id": "501187",
+      "name": "Prambanan",
+      "desc": "Candi Prambanan atau Candi Roro Jonggrang adalah kompleks candi Hindu terbesar di Indonesia yang dibangun pada abad ke-9 masehi. Candi ini dipersembahkan untuk Trimurti, tiga dewa utama Hindu yaitu Brahma sebagai dewa pencipta, Wisnu sebagai dewa pemelihara, dan Siwa sebagai dewa pemusnah.",
+      "image": "prambanan.jpg"
+    }, {
+      "id": "501165",
+      "name": "Payangan",
+      "desc": "Payangan berhubungan erat dengan kisah perjalanan Rsi Markandeya yang berasal dari tanah Jawa ke Pulau Bali. Dia mendirikan beberapa parahyangan sebagai tempat pemujaan yang masih dapat dilihat keberadaanya hingga sekarang ini. Di sinilah kemudian muncul kata parahyangan yang lambat laun berubah ejaan menjadi Payangan.",
+      "image": "payangan.jpg"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+@layer components {
+  .spacing-1 {
+    letter-spacing: 0.01em;
+    line-height: 150%;
+  }
+
+  /* .desktop\/big-title {
+    font-size: 2.125rem;
+    @apply font-bold spacing-1;
+  }
+
+  .desktop\/headline {
+    font-size: 1.5rem;
+    @apply font-semibold spacing-1;
+  }
+
+  .desktop\/subtitle {
+    font-size: 1.25rem;
+    @apply font-semibold spacing-1;
+  }
+
+  .desktop\/highlights {
+    font-size: 1rem;
+    @apply font-semibold spacing-1;
+  }
+
+  .desktop\/body {
+    font-size: 1rem;
+    @apply font-medium spacing-1;
+  }
+
+  .desktop\/caption {
+    @apply text-13 font-normal spacing-1;
+  } */
+
+  /* Extra */
+  /* .desktop\/tiny-title {
+    font-size: 2.125rem;
+    @apply font-medium spacing-1;
+  }
+
+  .mobile\/subtitle {
+    font-size: 1.125rem;
+    @apply font-semibold spacing-1;
+  }
+
+  .mobile\/highlights {
+    font-size: 0.875rem;
+    @apply font-semibold spacing-1;
+  }
+
+  .mobile\/body {
+    font-size: 0.875rem;
+    @apply font-medium spacing-1;
+  }
+
+  .mobile\/caption {
+    font-size: 0.75rem;
+    @apply font-normal spacing-1;
+  } */
+}

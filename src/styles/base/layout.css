@@ -1,0 +1,24 @@
+@layer base {
+  body {
+    background: #f5f6f8;
+  }
+}
+
+.app,
+.app-main {
+  @apply flex flex-auto flex-col;
+}
+
+.app-layout {
+  @apply flex flex-row flex-auto;
+}
+
+.app-content {
+  margin-top: 4.67rem;
+  @apply relative w-full md:pl-80 pl-0;
+}
+
+aside {
+  margin-top: 4.67rem;
+  @apply fixed bg-white md:flex flex-col justify-between z-10 hidden;
+}

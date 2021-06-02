@@ -1,0 +1,12 @@
+/* Basic Styling */
+@import "./base/flexbox.css";
+@import "./base/layout.css";
+@import "./base/typography.css";
+
+/* Native Element */
+@import "./element/button.css";
+
+/* Tailwind Mandatory */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

@@ -1,0 +1,37 @@
+@layer components {
+  .flex-y-center {
+    @apply flex items-center;
+  }
+
+  .flex-y-start {
+    @apply flex items-start;
+  }
+
+  .flex-x-center {
+    @apply flex justify-center;
+  }
+
+  .flex-x-between {
+    @apply flex justify-between;
+  }
+
+  .flex-x-end {
+    @apply flex justify-end;
+  }
+
+  .flex-x-start {
+    @apply flex justify-start;
+  }
+
+  .flex-center-between {
+    @apply flex items-center justify-between;
+  }
+
+  .flex-center-center {
+    @apply flex items-center justify-center;
+  }
+
+  .flex-center-end {
+    @apply flex items-center justify-end;
+  }
+}
